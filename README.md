@@ -7,6 +7,12 @@ An office suite for Classic Mac OS made with RealBASIC 2.1
 - Needs at least 20 MB of RAM
 - At least 120 MB of disk space
 
+This suite contains 4 applications:
+- ClassicNotes, simple text editor
+- ClassicWriter, creates and edits Word files
+- ClassicDeck, creates and edits PowerPoint files
+- ClassicData, creates and edits excel spreadsheets
+
 Building:
 1. Install REALbasic from the link onto your classic Mac, the serial number and the registration number are on it already: https://archive.org/details/realbasic-2.1
 2. Download the source code on a modern computer
