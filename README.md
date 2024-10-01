@@ -1,4 +1,4 @@
-# ClassicWorks
+# ClassicNotes
 An simple note-taking app that supports modern formats Classic Mac OS made with RealBASIC 2.1
 
 - works on System 7.5.3 to Mac OS 9
